@@ -2,7 +2,7 @@
 
 An end-to-end data pipeline that ingests raw Airbnb listing data, loads it into PostgreSQL, runs SQL transformations to produce analytical data marts, and exposes dashboards through Metabase, all orchestrated by Apache Airflow and containerized with Docker.
 
-<img width="1173" height="423" alt="image" src="https://github.com/user-attachments/assets/cebb4e9c-3390-4a1f-bd85-a900fe173a9b" />
+<img width="1200" height="417" alt="image" src="https://github.com/user-attachments/assets/036a4b35-cdc3-4c2f-af8d-a5741d845f88" />
 
 
 ---
