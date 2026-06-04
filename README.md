@@ -1,6 +1,6 @@
 # 🏠 Airbnb Ingestion Pipeline
 
-An end-to-end data pipeline that ingests raw Airbnb listing data, loads it into PostgreSQL, runs SQL transformations to produce analytical data marts, and exposes dashboards through Metabase — all orchestrated by Apache Airflow and containerized with Docker.
+An end-to-end data pipeline that ingests raw Airbnb listing data, loads it into PostgreSQL, runs SQL transformations to produce analytical data marts, and exposes dashboards through Metabase, all orchestrated by Apache Airflow and containerized with Docker.
 
 ---
 
